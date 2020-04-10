@@ -1,0 +1,5 @@
+/build
+
+#projects form intellij/pycharm and android studio archives .ignore
+*.idea
+*.zip
